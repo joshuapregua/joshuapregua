@@ -1,5 +1,7 @@
 💫 About Me:
-Hi there! 👋  <br><br>Welcome to my GitHub profile! I'm a passionate developer who loves building efficient and scalable solutions. I work with **[your main technologies, e.g., TypeScript, Node.js, Python]**, and I'm always exploring new technologies to improve my skills.  <br><br>🚀 **What I do:**  <br>- 🔧 Building backend services and APIs  <br>- ⚡ Optimizing performance and scalability  <br>- 💡 Learning and sharing knowledge  <br>
+Hey there! 👋 I’m Joshua from Davao City, Philippines. I’m a passionate developer who enjoys building efficient and scalable applications. My expertise spans across Node.js, Laravel, Ruby on Rails, React, and Vue, and I’m always eager to explore new technologies to enhance my skills
+
+<br><br>🚀 **What I do:**  <br>- 🔧 Building backend services and APIs  <br>- ⚡ Optimizing performance and scalability  <br>- 💡 Learning and sharing knowledge  <br>
 
 
 ## 🌐 Socials:
