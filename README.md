@@ -1,5 +1,5 @@
-# 💫 About Me:
-# Hi there! 👋  <br><br>Welcome to my GitHub profile! I'm a passionate developer who loves building efficient and scalable solutions. I work with **[your main technologies, e.g., TypeScript, Node.js, Python]**, and I'm always exploring new technologies to improve my skills.  <br><br>🚀 **What I do:**  <br>- 🔧 Building backend services and APIs  <br>- ⚡ Optimizing performance and scalability  <br>- 💡 Learning and sharing knowledge  <br>
+💫 About Me:
+Hi there! 👋  <br><br>Welcome to my GitHub profile! I'm a passionate developer who loves building efficient and scalable solutions. I work with **[your main technologies, e.g., TypeScript, Node.js, Python]**, and I'm always exploring new technologies to improve my skills.  <br><br>🚀 **What I do:**  <br>- 🔧 Building backend services and APIs  <br>- ⚡ Optimizing performance and scalability  <br>- 💡 Learning and sharing knowledge  <br>
 
 
 ## 🌐 Socials:
