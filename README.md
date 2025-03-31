@@ -1,6 +1,6 @@
 💫 About Me:<br><br>
 
-Hey there! 👋 I’m Joshua from Davao City, Philippines. I’m a passionate developer who enjoys building efficient and scalable applications. My expertise spans across Node.js, Laravel, Ruby on Rails, React, and Vue, and I’m always eager to explore new technologies to enhance my skills
+Hey there! 👋 I’m Joshua from Davao City, Philippines. I’m a passionate developer who enjoys building efficient and scalable applications. My expertise spans across Node.js, Laravel, Livewire, Alpine.js, Ruby on Rails, React, Vue and Wordpress and I’m always eager to explore new technologies to enhance my skills
 <br><br>🚀 **What I do:**  <br>- 🔧 Building backend services and APIs  <br>- ⚡ Optimizing performance and scalability  <br>- 💡 Learning and sharing knowledge  <br>
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/547382455372611614) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jshprg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jshprg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-pregua) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https_jshprg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preguajoshua@gmail.com) 
