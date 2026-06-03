@@ -1,6 +1,6 @@
 💫 About Me:<br><br>
 
-Hey there! 👋 I’m Joshua from Davao City, Philippines. I’m a passionate developer who enjoys building efficient and scalable applications. My expertise spans across Node.js, Laravel, Livewire, Alpine.js, Ruby on Rails, React, Vue and WordPress and I’m always eager to explore new technologies to enhance my skills
+Hey there! 👋 I’m Joshua from Davao City, Philippines. I’m a passionate developer who enjoys building efficient and scalable applications. My expertise spans across Node.js, Electron, Laravel, Livewire, Alpine.js, Ruby on Rails, React, Vue and WordPress and I’m always eager to explore new technologies to enhance my skills
 <br><br>🚀 **What I do:**  <br>
 - 🔧 Building backend services and APIs  <br>
 - 🎨 Creating intuitive and responsive user interfaces  <br>
